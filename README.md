@@ -23,3 +23,11 @@ Statistics says that the contribution of fossil fuels in electric energy product
 
 <code style="color : red ">Contributions of various sources to electrical energy production</code> <br/>
 ![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/1644448e-9891-40ac-ab8c-1825ce518f09)
+
+A field survey is conducted to observe the frequencies of noise at nearby places
+of IIT Palakkad, like at the entrance of Nila campus IIT Palakkad, at railways, at
+traffic signal etc.. Based on the frequencies of noise observe at different places we
+can construct AEH model to get maximum output. <br/>
+Observation of absorption, reflection and transmission of sound waves by the
+AEH model to get maximum output. This is done using with the help of COMSOL
+simulations. By which we can get maximum absorption frequency range.
