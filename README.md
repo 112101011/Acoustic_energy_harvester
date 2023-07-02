@@ -1,4 +1,4 @@
-![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/090d0328-33b8-4cfa-b691-c810c225e65d)# Acoustic_energy_harvester
+# Acoustic_energy_harvester
 The aim of this project is to design a model of Helmholtz resonator which
 could give maximum output(in terms of current output etc..) in real life
 scenario(roads, railways).
