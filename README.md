@@ -1,4 +1,4 @@
-# Acoustic_energy_harvester
+![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/090d0328-33b8-4cfa-b691-c810c225e65d)# Acoustic_energy_harvester
 The aim of this project is to design a model of Helmholtz resonator which
 could give maximum output(in terms of current output etc..) in real life
 scenario(roads, railways).
@@ -31,3 +31,18 @@ can construct AEH model to get maximum output. <br/>
 Observation of absorption, reflection and transmission of sound waves by the
 AEH model to get maximum output. This is done using with the help of COMSOL
 simulations. By which we can get maximum absorption frequency range.
+
+## Theory:
+![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/95eb9b78-dbcd-45cf-a74e-b2ddc9147c1c)
+
+
+![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/919d4ef2-833e-46ce-8c23-125daee7b2db)
+
+
+![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/3510c522-7fa6-47d0-a5cf-97ada31f0b60)
+
+
+![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/00b2c763-9ed2-478d-8533-d13262de1d73)
+
+
+![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/584ea181-3726-4088-910c-c9167e0b9e98)
