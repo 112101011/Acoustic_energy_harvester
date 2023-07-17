@@ -58,11 +58,37 @@ sound which is difficult to harvest.
 
 ![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/95eb9b78-dbcd-45cf-a74e-b2ddc9147c1c)
 
-![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/763e2b03-c153-49a5-ab00-ea60817ecc9a)
+### Pressure amplification by ‘Helmholtz Resonator’:  <br/>
+Helmholtz resonator consists of an acoustical cavity contained by rigid walls
+and connected to the exterior by a small opening called the neck. It is a special type of
+air-spring oscillator. The name comes from a device created in the 1850s by [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz), the Helmholtz resonator, which he used to identify the various
+frequencies or musical pitches present in music and other complex sounds. The
+acoustical cavity could be any shape like sphere, cylinder, cuboid etc.. The size that is
+volume of cavity and length, radius of neck defines the frequency at which the
+resonator resonates <br/>
+3-D model of Helmholtz resonator: <br/>
+![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/763e2b03-c153-49a5-ab00-ea60817ecc9a) <br/>
+**Condition of Helmholtz resonator**: V <<< 𝜆^3 <br/>
+That is resonating volume should be much less than cube of target wavelength. <br/>
+If it is a sphere then radius of sphere should be less than wavelength. And similarly so
+on… <br/>
+The Helmholtz resonator resonates at certain frequencies and one of such
+frequencies is fundamental frequency. This frequency is generally referred to as
+natural frequency of resonator. Whenever the natural frequency of the Helmholtz
+resonator system is equal to the driving frequency that is incident frequency(from
+surroundings) acoustic coupling takes place. This acoustic coupling will drive air
+molecules back and forth inside neck. The oscillations are maximum at resonant
+frequency. <br/>
+Incident sound waves causes air molecules in the neck to vibrate back and
+forth, while air inside the cavity provides the restoring spring force. Helmholtz
+resonator behaves like an acoustical mass-spring system, where <br/>
+• Mass of air in neck ~ Mass in spring-mass system. <br/>
+• Bulk modulus of air in the cavity ~ spring constant. (provides restoring force) <br/>
 
-
-![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/3510c522-7fa6-47d0-a5cf-97ada31f0b60)
-
+**Resemblance of Helmholtz resonator with spring-mass system:** <br/>
+![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/88307ce1-1dab-471a-8ea7-374a31bec65c) <br/>
+The damping forces are like viscosity of air, very minute cohesive and adhesive forces
+between air and wall molecules. <br/>
 
 ![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/00b2c763-9ed2-478d-8533-d13262de1d73)
 
