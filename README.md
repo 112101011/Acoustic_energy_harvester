@@ -58,8 +58,7 @@ sound which is difficult to harvest.
 
 ![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/95eb9b78-dbcd-45cf-a74e-b2ddc9147c1c)
 
-
-![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/919d4ef2-833e-46ce-8c23-125daee7b2db)
+![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/763e2b03-c153-49a5-ab00-ea60817ecc9a)
 
 
 ![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/3510c522-7fa6-47d0-a5cf-97ada31f0b60)
