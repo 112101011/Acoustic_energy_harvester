@@ -33,6 +33,29 @@ AEH model to get maximum output. This is done using with the help of COMSOL
 simulations. By which we can get maximum absorption frequency range.
 
 ## Theory:
+
+The idea of converting acoustic energy(sound) to electric energy looks so
+simple but actually it is not. It is so simple to convert electrical to sound using
+speakers but the other way round is not all and that can be understood by the end if
+this report. The main agenda that is converting renewable energy to electric energy is
+similar to that of windmills and solar panels. It is rather complex than converting
+solar energy or wind energy to electrical energy. <br/>
+The two main reasons which are making difficult to convert sound energy to electrical
+when compared to solar and wind are:
+1) Low energy density
+2) Less abundant <br/>
+‘Low energy density’ : The energy density of sound is very less compared to
+solar and wind energy. Due to which energy extracted from it on gross scale will be
+much lower than electrical energy obtained from solar, wind, hydro energy(dams).
+The technique used here to overcome the limiting factor of efficiency of AEH (low
+energy density) is ‘pressure amplification’ which can be done by Helmholtz
+resonator. <br/>
+‘Less abundant’ : Though sound energy is available in abundant, but it is not as
+abundant as solar and wind. Even though sound energy is abundantly present in
+atmosphere due to noise pollution, in industries etc.., most of the sound cannot be
+harvested to get electric energy either due to high frequency or low frequency of
+sound which is difficult to harvest.
+
 ![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/95eb9b78-dbcd-45cf-a74e-b2ddc9147c1c)
 
 
