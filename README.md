@@ -93,4 +93,6 @@ between air and wall molecules. <br/>
 ![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/00b2c763-9ed2-478d-8533-d13262de1d73)
 
 
-![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/584ea181-3726-4088-910c-c9167e0b9e98)
+![image](https://github.com/112101011/Acoustic_energy_harvester/assets/111628378/584ea181-3726-4088-910c-c9167e0b9e98) <br/>
+
+[3-d printing](https://youtu.be/bFFjTVrW8AE)
